@@ -1,0 +1,41 @@
+{
+  "__label__": "Français",
+  "__currencyFormat__": "0,0.0 $",
+  "__weekdays__": [
+    "Dimanche",
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Jeudi",
+    "Vendredi",
+    "Samedi"
+  ],
+  "__weekdaysShort__": [
+    "Dim",
+    "Lun",
+    "Mar",
+    "Mer",
+    "Jeu",
+    "Ven",
+    "Sam"
+  ],
+  "__months__": [
+    "Janvier",
+    "Février",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juillet",
+    "Août",
+    "Septembre",
+    "Octobre",
+    "Novembre",
+    "Décembre"
+  ],
+
+  "days": "jours",
+  "hours": "heures",
+
+  "navBar" : {}
+}
